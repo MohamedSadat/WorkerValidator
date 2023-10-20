@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerApp", "WorkerApp\WorkerApp.csproj", "{3B3D1AAB-301E-4AFC-8288-DFF33ABBFC92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerValidatorLib", "WorkerValidatorLib\WorkerValidatorLib.csproj", "{1F92D247-93B7-49F2-9006-CC4BFE19A739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B3D1AAB-301E-4AFC-8288-DFF33ABBFC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3D1AAB-301E-4AFC-8288-DFF33ABBFC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3D1AAB-301E-4AFC-8288-DFF33ABBFC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3D1AAB-301E-4AFC-8288-DFF33ABBFC92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F92D247-93B7-49F2-9006-CC4BFE19A739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F92D247-93B7-49F2-9006-CC4BFE19A739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F92D247-93B7-49F2-9006-CC4BFE19A739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F92D247-93B7-49F2-9006-CC4BFE19A739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D911634-1FD1-4529-B202-BDB421DD414D}
+	EndGlobalSection
+EndGlobal
